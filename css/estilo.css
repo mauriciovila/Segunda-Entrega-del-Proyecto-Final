@@ -100,6 +100,7 @@ ul li a {
 /* footer  */
 .logofooter__img {
 	width: 150px;
+	padding-left: 15px;
 }
 .row div h2 a {
 	font-family: 'Rubik', sans-serif;
@@ -147,8 +148,6 @@ div .titulonosotros {
 .mision {
 	font-family: 'Rubik', sans-serif;
 	font-size: 35px;
-	grid-column: 2 / 3;
-	grid-row: 1 / 2;
 	text-align: center;
 	align-self: center;
 	padding: 35px;
